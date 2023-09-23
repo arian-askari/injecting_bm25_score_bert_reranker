@@ -3,7 +3,7 @@ Arian Askari, Amin Abolghasemi, Gabriella Pasi, Wessel Kraaij and Suzan Verberne
 
 ## Quick run notebook
 
-To quickly train a cross-encoder_BM25CAT re-ranker in a knowledge distillation (KD) setup, you could use the implementation below.
+To quickly train a cross-encoder_BM25CAT re-ranker in a knowledge distillation (KD) setup, you could use the implementation below. All of files including the BM25 injection scores and the dataset will be automatically downloaded thorough Notebook. You only need to run all cells.
 
 [train_cross-encoder_kd_BM25CAT](https://colab.research.google.com/drive/1mzWJ3vBciCYpjce75rHirLwUYL_4nTdS?usp=sharing) [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mzWJ3vBciCYpjce75rHirLwUYL_4nTdS?usp=sharing) 
 
