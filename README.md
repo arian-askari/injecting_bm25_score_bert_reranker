@@ -8,4 +8,4 @@ To quickly train a cross-encoder_BM25CAT re-ranker in a knowledge distillation (
 [train_cross-encoder_kd_BM25CAT](https://colab.research.google.com/drive/1mzWJ3vBciCYpjce75rHirLwUYL_4nTdS?usp=sharing) [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mzWJ3vBciCYpjce75rHirLwUYL_4nTdS?usp=sharing) 
 
 ## Relevant repository to the extension of this work
-Please check out the following repository for training cross-encoder_DPRCAT ["Injecting the Score of the First-stage Retriever as Text Improves BERT-Based Re-rankers"](https://github.com/arian-askari/DPRCAT), in which all of the scores json file are available and we also proivde run files in TREC format.
+Please check out the following repository for training cross-encoder_DPRCAT ["Improving BERT-Based Re-rankers by Injecting First-Stage Retriever Score as Text"](https://github.com/arian-askari/RelevanceCAT), in which all of the scores json file are available and we also proivde run files in TREC format.
